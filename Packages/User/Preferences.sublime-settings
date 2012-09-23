@@ -3,5 +3,9 @@
 	"font_size": 14.0,
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
-  "rulers": [120]
+  "rulers": [120],
+  "margin": 0,
+  "trim_trailing_white_space_on_save": true,
+  "highlight_modified_tabs": true,
+  "hot_exit": false
 }
