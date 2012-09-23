@@ -1,4 +1,6 @@
 {
 	"color_scheme": "Packages/User/rails_tutorial_sublime_text/Railscasts.tmTheme",
-	"font_size": 14.0
+	"font_size": 14.0,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
 }
