@@ -21,7 +21,7 @@
 					"file": "/Users/andy/Library/Application Support/Sublime Text 2/.gitignore",
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 55,
 						"line_ending": "Unix"
 					}
 				}
@@ -92,15 +92,15 @@
 							"file": "/Users/andy/Library/Application Support/Sublime Text 2/.gitignore",
 							"settings":
 							{
-								"buffer_size": 37,
+								"buffer_size": 55,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										37,
-										37
+										55,
+										55
 									]
 								],
 								"settings":
