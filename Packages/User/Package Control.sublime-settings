@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1348422363,
 	"installed_packages":
 	[
-		"ERB Insert and Toggle Commands"
+		"ERB Insert and Toggle Commands",
+		"SublimeLinter"
 	]
 }
