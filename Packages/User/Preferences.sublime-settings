@@ -1,11 +1,63 @@
 {
 	"color_scheme": "Packages/User/Railscasts.tmTheme",
-	"font_size": 14.0,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "rulers": [120],
-  "margin": 0,
-  "trim_trailing_white_space_on_save": true,
-  "highlight_modified_tabs": true,
-  "hot_exit": false
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		".repl_history",
+		".dat*",
+		"development.log",
+		"test.log",
+		"*.crt",
+		"GeoIP.dat",
+		"*.bz2",
+		"*.fla",
+		"*.mp3",
+		"*.min.js",
+		".gitkeep"
+	],
+	"folder_exclude_patterns":
+	[
+		".zeus.sock",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"build",
+		"tmp",
+		"Frank"
+	],
+	"font_size": 15.0,
+	"git_gutter_live_mode": false,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
