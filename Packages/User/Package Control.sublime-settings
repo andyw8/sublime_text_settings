@@ -1,8 +1,16 @@
 {
-	"auto_upgrade_last_run": 1348422363,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"BeautifyRuby",
+		"CoffeeScript",
 		"ERB Insert and Toggle Commands",
+		"GitGutter",
+		"HTML Mustache",
+		"Markdown Preview",
+		"Package Control",
+		"RubyTest",
+		"sublime-jslint",
 		"SublimeLinter"
 	]
 }
